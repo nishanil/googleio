@@ -22,4 +22,4 @@
         iosched:actionViewClass="android.widget.SearchView"
         iosched:showAsAction="ifRoom|collapseActionView" />
 </menu>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/menu/search.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/menu/search.xml -->

@@ -18,4 +18,4 @@
     android:layout_height="@dimen/whats_on_height"
     android:orientation="horizontal"
     android:baselineAligned="false" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/fragment_whats_on.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/fragment_whats_on.xml -->

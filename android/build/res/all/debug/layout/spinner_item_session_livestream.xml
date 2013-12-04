@@ -39,4 +39,4 @@
         android:ellipsize="end"
         style="@style/ListItemSubtitle" />
 </RelativeLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/spinner_item_session_livestream.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/spinner_item_session_livestream.xml -->

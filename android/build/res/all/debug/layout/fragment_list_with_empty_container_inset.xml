@@ -29,4 +29,4 @@
         android:drawSelectorOnTop="false"
         android:divider="@drawable/list_divider_holo_light_inset" />
 </FrameLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/fragment_list_with_empty_container_inset.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/fragment_list_with_empty_container_inset.xml -->

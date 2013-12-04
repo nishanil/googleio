@@ -18,4 +18,4 @@
     <item android:color="#fff" android:state_checked="true" />
     <item android:color="@color/body_text_1" />
 </selector>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/color/add_schedule_button_text.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/color/add_schedule_button_text.xml -->

@@ -18,4 +18,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/scrubber_thumb_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/scrubber_thumb_focused" />
     <item android:drawable="@drawable/scrubber_thumb_default" />
-</selector><!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/scrubber_thumb.xml -->
+</selector><!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/scrubber_thumb.xml -->

@@ -19,4 +19,4 @@
         <bitmap android:src="@drawable/empty_sandbox_background" android:gravity="center" />
     </item>
 </layer-list>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/grey_frame_on_white_empty_sandbox.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/grey_frame_on_white_empty_sandbox.xml -->

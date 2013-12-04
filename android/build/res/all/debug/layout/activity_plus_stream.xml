@@ -19,4 +19,4 @@
     android:layout_height="match_parent"
     android:paddingLeft="@dimen/plus_stream_padding_horizontal"
     android:paddingRight="@dimen/plus_stream_padding_horizontal" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/activity_plus_stream.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/activity_plus_stream.xml -->

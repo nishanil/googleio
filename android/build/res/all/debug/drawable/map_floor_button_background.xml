@@ -22,4 +22,4 @@
     <item android:drawable="@drawable/item_checked" android:state_checked="true" />
     <item android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/map_floor_button_background.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/map_floor_button_background.xml -->

@@ -17,4 +17,4 @@
     <item android:drawable="@drawable/activatable_item_background" />
     <item android:drawable="@drawable/list_extra_button_left_border" />
 </layer-list>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/list_extra_button_background.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/list_extra_button_background.xml -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-sw600dp/values.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-sw600dp/values.xml -->
     <eat-comment />
 
     <dimen name="abc_action_bar_default_height">56dip</dimen>
@@ -11,7 +11,7 @@
     <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
     <dimen name="abc_action_bar_title_text_size">18dp</dimen>
     <dimen name="abc_config_prefDialogWidth">580dp</dimen>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-sw600dp/dimens.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-sw600dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="action_button_min_width">64dp</dimen>
@@ -26,22 +26,22 @@
     <dimen name="text_size_xlarge">32sp</dimen>
     <dimen name="thickbar_height">200dp</dimen>
     <dimen name="track_dropdown_width">288dp</dimen>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-sw600dp/drawable_refs.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-sw600dp/drawable_refs.xml -->
     <eat-comment />
 
     <item name="stream_item_background" format="reference" type="drawable">@drawable/grey_frame_on_white</item>
     <item name="whats_on_background" format="reference" type="drawable">@drawable/grey_frame_on_white</item>
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-sw600dp/values.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-sw600dp/values.xml -->
     <eat-comment />
 
     <integer name="abc_max_action_buttons">5</integer>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-sw600dp/integers.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-sw600dp/integers.xml -->
     <eat-comment />
 
     <integer name="links_columns">2</integer>
     <integer name="login_pane_width_percent">80</integer>
     <integer name="track_abstract_max_lines">6</integer>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-sw600dp/styles.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-sw600dp/styles.xml -->
     <eat-comment />
 
     <style name="HomePaneHeader">

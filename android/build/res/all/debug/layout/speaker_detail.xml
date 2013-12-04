@@ -34,4 +34,4 @@
     <TextView android:id="@+id/speaker_abstract"
         style="@style/SpeakerDetailAbstract" />
 </RelativeLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/speaker_detail.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/speaker_detail.xml -->

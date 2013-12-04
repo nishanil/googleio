@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-de/strings.xml -->
     <eat-comment />
 
     <string-array name="selection_setup_attendee">
@@ -79,7 +79,7 @@
     <string name="all_tracks_subtitle_sandbox">Alle Entwickler-Sandboxes-Firmen auf Google I/O 2013.</string>
     <string name="all_tracks_subtitle_sessions">Alle Sitzungen auf Google I/O 2013.</string>
     <string name="app_name">Google I/O 2013</string>
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComGoogleAndroidGmsPlayServices3265.aar/res/values-de/strings.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComGoogleAndroidGmsPlayServices3265.aar/res/values-de/strings.xml -->
     <eat-comment />
 
     <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"Anwendung erfordert aktivierte Google Play-Dienste"</string>
@@ -88,7 +88,7 @@
     <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Fehler bei Google Play-Diensten"</string>
     <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"Angefordert von <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
     <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"Anwendung versuchte, defekte Google Play-Dienste-Version zu verwenden"</string>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-de/strings.xml -->
     <eat-comment />
 
     <string name="calltoaction_wifi_configure">
@@ -104,7 +104,7 @@
     <string name="close_detail_pane">Detailansicht schließen</string>
     <string name="codelab_room">Code-Labs (Niveau 2)</string>
     <string name="codelab_title_template">Code-Lab: <ns1:g id="title">%1$s</ns1:g></string>
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComGoogleAndroidGmsPlayServices3265.aar/res/values-de/strings.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComGoogleAndroidGmsPlayServices3265.aar/res/values-de/strings.xml -->
     <eat-comment />
 
     <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Google Play-Dienste aktivieren"</string>
@@ -126,7 +126,7 @@
     <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Google Play-Dienste aktualisieren"</string>
     <string name="common_signin_button_text" msgid="9071884888741449141">"Anmelden"</string>
     <string name="common_signin_button_text_long" msgid="2429381841831957106">"Über Google anmelden"</string>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-de/strings.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-de/strings.xml -->
     <eat-comment />
 
     <string name="dashclock_extension_description">        Die nächsten Ereignisse in Ihrem Google I/O 2013 Programm anzeigen.</string>

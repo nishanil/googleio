@@ -29,4 +29,4 @@
         android:state_pressed="true" />
     <item android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/circle_border.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/circle_border.xml -->

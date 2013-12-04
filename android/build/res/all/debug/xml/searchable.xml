@@ -19,4 +19,4 @@
     android:searchSuggestAuthority="com.google.android.apps.iosched"
     android:searchSuggestSelection="suggest_text_1 LIKE ?"
     android:voiceSearchMode="showVoiceSearchButton|launchRecognizer" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/xml/searchable.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/xml/searchable.xml -->

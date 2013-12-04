@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v14/dimens.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v14/dimens.xml -->
     <eat-comment />
 
     <dimen name="widget_margin">0dp</dimen>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v14/styles.xml -->
     <eat-comment />
 
     <style name="FrameworkRoot.Theme" parent="Theme.AppCompat.Light">
@@ -19,7 +19,7 @@
         <item name="listPreferredItemPaddingRight">?android:listPreferredItemPaddingRight</item>
         <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
     </style>
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-v14/values.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-v14/values.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle" parent="@android:TextAppearance.Holo.SearchResult.Subtitle" />

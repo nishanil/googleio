@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-sw720dp-land/integers.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-sw720dp-land/integers.xml -->
     <eat-comment />
 
     <integer name="links_columns">1</integer>

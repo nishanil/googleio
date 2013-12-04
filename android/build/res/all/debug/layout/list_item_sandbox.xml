@@ -24,4 +24,4 @@
         android:layout_height="wrap_content"
         style="@style/ListItemTitle.ComplexContent.Inset" />
 </FrameLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/list_item_sandbox.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/list_item_sandbox.xml -->

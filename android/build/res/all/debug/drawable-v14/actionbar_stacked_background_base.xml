@@ -17,4 +17,4 @@
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/actionbar_stacked_background_pattern_tile"
     android:tileMode="repeat" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable-v14/actionbar_stacked_background_base.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable-v14/actionbar_stacked_background_base.xml -->

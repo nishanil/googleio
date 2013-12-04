@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v11/bools.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v11/bools.xml -->
     <eat-comment />
 
     <bool name="has_honeycomb">true</bool>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v11/dimens.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v11/dimens.xml -->
     <eat-comment />
 
     <dimen name="indeterminate_progress_size">32dp</dimen>
     <dimen name="rating_bar_thumb_offset">16dp</dimen>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v11/styles.xml -->
     <eat-comment />
 
     <style name="FrameworkRoot.EditText" parent="android:Widget.Holo.Light.EditText" />
@@ -28,7 +28,7 @@
         <item name="listPreferredItemPaddingRight">@dimen/compat_list_preferred_item_padding_right</item>
         <item name="listPreferredItemHeightSmall">@dimen/compat_list_preferred_item_height_small</item>
     </style>
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-v11/values.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-v11/values.xml -->
     <eat-comment />
 
     <style name="Theme.Base" parent="android:Theme.Holo">

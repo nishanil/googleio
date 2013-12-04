@@ -69,4 +69,4 @@
         android:layout_marginRight="8dp"
         android:background="@drawable/track_dropdown_arrow_light" />
 </FrameLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout-sw600dp/fragment_tracks_dropdown.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout-sw600dp/fragment_tracks_dropdown.xml -->

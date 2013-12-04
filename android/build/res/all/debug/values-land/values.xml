@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-land/values.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/build/exploded-bundles/ComAndroidSupportAppcompatV71800.aar/res/values-land/values.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
@@ -14,7 +14,7 @@
     <dimen name="abc_action_bar_subtitle_text_size">12dp</dimen>
     <dimen name="abc_action_bar_subtitle_top_margin">-2dp</dimen>
     <dimen name="abc_action_bar_title_text_size">16dp</dimen>
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-land/integers.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-land/integers.xml -->
     <eat-comment />
 
     <integer name="links_columns">2</integer>

@@ -18,4 +18,4 @@
     <item android:drawable="@drawable/actionbar_background_noshadow" />
     <item android:drawable="@drawable/actionbar_split_inset_shadow" />
 </layer-list>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/actionbar_split_background.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/actionbar_split_background.xml -->

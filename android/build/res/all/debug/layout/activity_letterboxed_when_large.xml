@@ -17,4 +17,4 @@
     android:id="@+id/root_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/activity_letterboxed_when_large.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/activity_letterboxed_when_large.xml -->

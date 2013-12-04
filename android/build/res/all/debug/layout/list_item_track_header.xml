@@ -25,4 +25,4 @@
     android:textStyle="bold"
     android:textSize="@dimen/text_size_medium"
     android:background="@drawable/track_header_bottom_border_inset" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/list_item_track_header.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/list_item_track_header.xml -->

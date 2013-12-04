@@ -47,4 +47,4 @@
         android:text="@string/add_to_schedule" />
 
 </com.google.android.apps.iosched.ui.CheckableLinearLayout>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/include_add_to_schedule_button.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/include_add_to_schedule_button.xml -->

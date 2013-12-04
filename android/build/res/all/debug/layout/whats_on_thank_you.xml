@@ -16,4 +16,4 @@
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/WhatsOnStaticItem"
     android:text="@string/whats_on_thank_you_title" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/whats_on_thank_you.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/whats_on_thank_you.xml -->

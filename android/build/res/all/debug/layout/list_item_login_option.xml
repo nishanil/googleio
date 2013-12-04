@@ -25,4 +25,4 @@
     android:minHeight="?listPreferredItemHeightSmall"
     android:textSize="@dimen/text_size_large"
     android:textColor="@color/body_text_1" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/list_item_login_option.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/list_item_login_option.xml -->

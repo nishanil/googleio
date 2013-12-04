@@ -18,4 +18,4 @@
     android:id="@+id/fragment_container_master"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/layout/activity_search.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/layout/activity_search.xml -->

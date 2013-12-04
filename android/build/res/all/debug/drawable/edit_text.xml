@@ -19,4 +19,4 @@
     <item android:state_focused="true" android:drawable="@drawable/textfield_activated" />
     <item android:state_activated="true" android:drawable="@drawable/textfield_focused" />
     <item android:drawable="@drawable/textfield_default" />
-</selector><!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/drawable/edit_text.xml -->
+</selector><!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/drawable/edit_text.xml -->

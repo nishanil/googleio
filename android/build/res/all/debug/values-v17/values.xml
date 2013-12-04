@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/values-v17/styles.xml -->
+    <!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/values-v17/styles.xml -->
     <eat-comment />
 
     <style name="FeedbackQuestionGuideText">

@@ -18,4 +18,4 @@
     <item android:color="@color/body_text_1_positive" android:state_enabled="true" />
     <item android:color="@color/body_text_disabled" />
 </selector>
-<!-- From: file:/Users/Nish/Source/iosched/android/src/main/res/color/body_text_1_positive_stateful.xml -->
+<!-- From: file:/Users/Nish/Source/nishanil-git/googleio/android/src/main/res/color/body_text_1_positive_stateful.xml -->
